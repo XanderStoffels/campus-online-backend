@@ -2,7 +2,7 @@
 
 namespace CampusOnline.Domain.Common;
 
-internal class BaseEvent : INotification
+public class BaseEvent : INotification
 {
 
 }
